@@ -65,7 +65,7 @@ Yazılım geliştirme alanında **7+ yıl** deneyime sahip, **.NET Core** ve **C
 ## 📫 İletişim
 
 - **Email**: ismailozer35041@gmail.com
-- **LinkedIn**: [linkedin.com/in/ismailoze](https://linkedin.com/in/ismailoze)
+- **LinkedIn**: [linkedin.com/in/ismail-ozer-07-antalya](https://www.linkedin.com/in/ismail-ozer-07-antalya/)
 - **GitHub**: [github.com/ismailoze](https://github.com/ismailoze)
 
 ---
